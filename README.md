@@ -34,17 +34,21 @@ The project follows a complete Power BI development lifecycle:
    - Create relationships between tables.
    - Define hierarchies (e.g., Year → Month → Day).
    - Use DAX formulas for calculated columns and measures.
+     ![DAX Demo](screen-shots/DAX.png)
 
 4. **Report Design**
 
    - Create visuals: bar charts, KPIs, cards, slicers, and line charts.
    - Apply formatting, themes, canvas background, and tooltips.
    - Add drill-through, drill-down, conditional formatting, and bookmarks for interactivity.
+     ![Custom tooltip](screen-shots/custom-tooltip.png)
+     ![Report overview](screen-shots/overview.png)
 
 5. **Publish & Share**
    - Publish the report to Power BI Service (workspace).
    - Pin tiles to a dashboard for quick, high-level insights.
    - Enable **scheduled refresh** to ensure live data updates.
+     ![Dashboard View](dashboard/sales-analysis.png)
 
 ---
 
